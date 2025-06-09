@@ -42,5 +42,5 @@ Best practices dalam bekerja sama untuk menghasilkan produk digital yang unggul.
 
 ![image](https://raw.githubusercontent.com/itsolution405/Dasar-UI-UX/refs/heads/main/034ZguFPJgXgfslS6GqKxLG-9.webp)
 ![image](https://github.com/itsolution405/Dasar-UI-UX/blob/main/faac7b6a-44b0-4ccb-9737-b2e2cf137bf7.png)
-![image]([https://raw.githubusercontent.com/itsolution405/Dasar-UI-UX/refs/heads/main/034ZguFPJgXgfslS6GqKxLG-9.webp](https://github.com/itsolution405/Dasar-UI-UX/blob/main/images.png))
+![image]([https://raw.githubusercontent.com/itsolution405/Dasar-UI-UX/refs/heads/main/034ZguFPJgXgfslS6GqKxLG-9.webp](https://github.com/itsolution405/Dasar-UI-UX/blob/main/images.png)
 ![image](https://raw.githubusercontent.com/itsolution405/Dasar-UI-UX/refs/heads/main/vistacreate-logo-1600x900.webp)
