@@ -44,3 +44,15 @@ Best practices dalam bekerja sama untuk menghasilkan produk digital yang unggul.
 ![image](https://github.com/itsolution405/Dasar-UI-UX/blob/main/faac7b6a-44b0-4ccb-9737-b2e2cf137bf7.png)
 ![image](https://github.com/itsolution405/Dasar-UI-UX/blob/main/images.png)
 ![image](https://raw.githubusercontent.com/itsolution405/Dasar-UI-UX/refs/heads/main/vistacreate-logo-1600x900.webp)
+
+Silabus ui ux desain:
+1. introduction to ui ux
+2. research dan analisis
+3. user persona dan user journey
+4. wireframing dan prototyping
+5. high fidelity design
+6. interaction design
+7. visual design
+8. usability testing dan evaluasi
+9. iterasi dan improvisasi
+10. best practice dan trend ui ux, gitu.
